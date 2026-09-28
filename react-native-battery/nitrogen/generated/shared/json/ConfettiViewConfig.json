@@ -1,0 +1,10 @@
+{
+  "uiViewClassName": "ConfettiView",
+  "supportsRawText": false,
+  "bubblingEventTypes": {},
+  "directEventTypes": {},
+  "validAttributes": {
+    "duration": true,
+    "hybridRef": true
+  }
+}
